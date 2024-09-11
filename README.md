@@ -377,3 +377,4 @@ sure.
 - [__init__ in Python](https://www.geeksforgeeks.org/__init__-in-python/)
 - [Python self](https://www.w3schools.com/python/gloss_python_self.asp)
 - [What do __init__ and self do in Python?](https://stackoverflow.com/questions/625083/what-do-init-and-self-do-in-python)
+# python-p3-init-self
